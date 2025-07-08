@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Leonardo.  
 
-<!--
-**leonardoak47/leonardoak47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 **Estudiante de Informática** | 🌱 **Desarrollador en formación**  
 
-Here are some ideas to get you started:
+💡 **Conocimientos actuales:**  
+- 🐍 **Python** (Bases, POO, scripting).  
+- 🌐 **Desarrollo Web**: Django, HTML/CSS, JS, PHP y SQL.  
+- 🛠️ **Otras herramientas**: Git, GitHub, Bootstrap.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Mis metas:**  
+- 🔨 Crear proyectos prácticos para consolidar mis habilidades.  
+- 📚 Aprender **`JAVA`** y **`C++`** para ampliar mi stack.  
+- 📱 Adentrarme en **desarrollo de apps** (móviles y escritorio).  
+
+🔍 **Busco colaborar** en proyectos open-source o ideas innovadoras.  
+raciones. ¡Vamos a codear! ✨  
+
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leonardoak47&theme=midnight-purple&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoak47&layout=compact)
