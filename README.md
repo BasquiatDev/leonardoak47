@@ -1,19 +1,17 @@
-# ¡Hola! 👋 Soy Leonardo.  
+# Hello! 👋 I'm Leonardo  
 
-### 🎓 **Estudiante de Informática** | 🌱 **Desarrollador en formación**  
+💡 **Current Skills:**  
+- 🐍 **Python** (OOP, scripting, basics).  
+- 🌐 **Web Dev**: Django, HTML/CSS, JavaScript, PHP & SQL.  
+- 🛠️ **Tools**: Git, GitHub, Bootstrap.  
 
-💡 **Conocimientos actuales:**  
-- 🐍 **Python** (Bases, POO, scripting).  
-- 🌐 **Desarrollo Web**: Django, HTML/CSS, JS, PHP y SQL.  
-- 🛠️ **Otras herramientas**: Git, GitHub, Bootstrap.  
+🚀 **Goals:**  
+- 🔨 Build real-world projects to sharpen my skills.  
+- 📚 Master **`Java`** and **`C++`** for broader opportunities.  
+- 📱 Dive into **app development** (mobile & desktop).  
 
-🚀 **Mis metas:**  
-- 🔨 Crear proyectos prácticos para consolidar mis habilidades.  
-- 📚 Aprender **`JAVA`** y **`C++`** para ampliar mi stack.  
-- 📱 Adentrarme en **desarrollo de apps** (móviles y escritorio).  
-
-🔍 **Busco colaborar** en proyectos open-source o ideas innovadoras.  
-raciones. ¡Vamos a codear! ✨  
+🔍 **Open to collaborations** on open-source or innovative projects!  
+ 
 
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leonardoak47&theme=midnight-purple&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
