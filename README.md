@@ -1,13 +1,7 @@
-# Hello! 👋 I'm Leonardo  
+### Hi there, I'm Leonardo 👋
 
-💡 **Current Skills:**  
-- 🐍 **Python** (OOP, scripting, basics).  
-- 🌐 **Web Dev**: Django, HTML/CSS, JavaScript, PHP & SQL.  
-- 🛠️ **Tools**: Git, GitHub, Bootstrap.  
+I am a Computer Science student and Fullstack Developer focused on creating scalable web systems. My specialty is optimizing backends and orchestrating cloud-native applications.
 
-🚀 **Goals:**  
-- 🔨 Build real-world projects to sharpen my skills.  
-- 📚 Master **`Java`** and **`C++`** for broader opportunities.  
-- 📱 Dive into **app development** (mobile & desktop).  
+* 🚀 **Current Focus:** Migrating legacy systems to Cloud Stacks (PostgreSQL, Render, Supabase). * 🛠 **Tech Stack:** Python (Django/FastAPI), PHP, MySQL/PostgreSQL, JavaScript. * ⚡ **Philosophy:** Writing clean, efficient code that runs perfectly on any hardware.
 
-🔍 **Open to collaborations** on open-source or innovative projects!
+[My Hospitality Project] | [My Portfolio]
